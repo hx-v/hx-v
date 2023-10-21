@@ -1,0 +1,5 @@
+- 👋 Hello world! I’m Vanessa!
+- 👀 I'm passionate about Data Science, Machine Learning, Neuroscience & Psychology.
+- 🌱 I’m constantly learning.
+- 💞️ I’m looking to collaborate on ML Innovation Projects.
+- 📫 How to reach me [...](https://www.linkedin.com/in/vanessacmarino/)
